@@ -49,7 +49,10 @@ Paste the code into Rotating_Wheel.cpp
 
 Press Ctrl + F9 to compile and run.
 
+-------
+
 File Structure
+
 Rotating_Wheel/
 ├── Rotating_Wheel.cpp
 ├── README.md
